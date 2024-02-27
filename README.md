@@ -1,0 +1,2 @@
+# LuxorAPP
+Bitcoin mining
